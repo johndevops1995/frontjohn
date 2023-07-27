@@ -69,13 +69,14 @@ productList.push({
 productList.push({
   name: 'Pantalla',
   price: 220,
-  image: 'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  image: 'https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
 });
 productList.push({
   name: 'Compu',
   price: 620,
-  image: 'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  image: 'https://images.pexels.com/photos/6204262/pexels-photo-6204262.jpeg',
 });
+
 
 function renderProducts(arr) {
   for (product of arr) {
